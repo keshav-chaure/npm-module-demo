@@ -6,5 +6,5 @@
  */
 module.exports = {
   getGreeting: function(msg) {
-    return String("Hello-"+ msg);
+    return String("Hello-"+ msg +"some thing");
 }
